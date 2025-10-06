@@ -5,44 +5,69 @@ const products = [
         id: 1,
         name: "Strognof",
         price: 19.99,
-        image: "image/Cadeira de Escritório Minimalista.avif"
+        image: "image/Strogonof.jpg"
     },
     {
         id: 2,
-        name: "Mesa de Centro Moderna",
-        price: 349.99,
-        image: "image/mesa.webp"
+        name: "Coxinha de frango com catupiry",
+        price: 7.50,
+        image: "image/Coxinha de frango com catupiry.jpg"
     },
     {
         id: 3,
-        name: "Luminária de Mesa Elegante",
-        price: 129.99,
-        image: "image/Luminária de Mesa Elegante.avif"
+        name: "Hamburger",
+        price: 45.99,
+        image: "image/Hamburger.jpg"
     },
     {
         id: 4,
-        name: "Vaso Decorativo Cerâmica",
+        name: "Pizza",
         price: 79.99,
-        image: "image/Vaso Decorativo Cerâmica.avif"
+        image: "image/Pizza.jpg"
     },
     {
         id: 5,
-        name: "Conjunto de Canetas Premium",
-        price: 45.99,
-        image: "image/Conjunto de Canetas Premium.avif"
+        name: "Orelha de gato de canela",
+        price: 1.99,
+        image: "image/Orelha de gato de canela.jpg"
     },
     {
         id: 6,
-        name: "Caderno de Notas Capa Dura",
+        name: "prato do dia",
         price: 29.99,
-        image: "image/Caderno de Notas Capa Dura.avif"
+        image: "image/prato do dia.jpg"
     },
     {
         id: 7,
-        name: "Sofá Vintage verde musgo",
-        price: 799.99,
-        image: "image/Mesa de Centro Moderna.avif"
+        name: "Tapioca com ovo",
+        price: 8.99,
+        image: "image/Tapioca com ovo.jpg"
     },
+    {
+        id: 8,
+        name: "pão de queijo",
+        price: 1.99,
+        image: "image/pão de queijo.jpg"
+    },
+    {
+        id: 9,
+        name: "Macarronada de alho e óleo",
+        price: 1.99,
+        image: "image/Macarronada de alho e óleo.jpg"
+    },
+    {
+        id: 10,
+        name: "Brigadeiro",
+        price: 1.99,
+        image: "image/Brigadeiro.jpg"
+    },
+    {
+        id: 11,
+        name: "Torta da vovó",
+        price: 1.99,
+        image: "image/Torta da vovó.jpg"
+    }
+       
 ];
 
 // Estado do carrinho
