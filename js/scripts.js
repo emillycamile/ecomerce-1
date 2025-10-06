@@ -3,8 +3,8 @@
 const products = [
     {
         id: 1,
-        name: "Cadeira de Escritório Minimalista",
-        price: 599.99,
+        name: "Strognof",
+        price: 19.99,
         image: "image/Cadeira de Escritório Minimalista.avif"
     },
     {
